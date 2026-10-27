@@ -1,0 +1,26 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/data/
+backend/logs/
+backend/.env
+backend/yolov8n.pt
+backend/yolov8s.pt
+
+# Node / Expo
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/build/
+mobile/.env
+mobile/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EAS
+mobile/android/
+mobile/ios/
